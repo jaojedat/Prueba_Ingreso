@@ -6,3 +6,4 @@ import './scss/index.scss';
 import './scss/loading.scss';
 
 import './components/mapComponent/map-control';
+import './components/mapComponent/controls/minimap'
